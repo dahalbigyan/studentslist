@@ -1,0 +1,60 @@
+{
+    "students": [
+        {
+            "id": 2,
+            "firstname": "Bigyan",
+            "lastname": "Dahal",
+            "country": "Nepal",
+            "school": "Knovva"
+        },
+        {
+            "id": 1,
+            "firstname": "Bigyan",
+            "lastname": "Dahal",
+            "country": "Nepal",
+            "school": "Brown"
+        },
+        {
+            "id": 3,
+            "firstname": "Bigyan",
+            "lastname": "Dahal",
+            "country": "UK",
+            "school": "Brown"
+        },
+        {
+            "id": 4,
+            "firstname": "Bigyan",
+            "lastname": "Dahal",
+            "country": "UK",
+            "school": "Knovva"
+        },
+        {
+            "id": 20,
+            "firstname": "Pac",
+            "lastname": "Smalls",
+            "country": "USA",
+            "school": "Knovva"
+        },
+        {
+            "id": 11,
+            "firstname": "Future",
+            "lastname": "Life",
+            "country": "Singapore",
+            "school": "Yale"
+        },
+        {
+            "id": 31,
+            "firstname": "Biggie",
+            "lastname": "Smalls",
+            "country": "UK",
+            "school": "Brown"
+        },
+        {
+            "id": 14,
+            "firstname": "Big",
+            "lastname": "Flint",
+            "country": "USA",
+            "school": "HBS"
+        }
+    ]
+}
